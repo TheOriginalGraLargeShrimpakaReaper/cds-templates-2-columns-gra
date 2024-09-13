@@ -2,5 +2,6 @@
 
 [BSc Computational and Data Science](https://fhgr.ch/cds)
 
-
+## Template
+Two Column Template
 ## Semesterarbeit / Hausarbeit
